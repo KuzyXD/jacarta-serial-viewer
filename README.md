@@ -1,5 +1,7 @@
 # jacarta-serial-viewer
 
+Пет-проект. Программа отображает серийные номера токенов марки Jacarta.
+
 ## Build Setup
 
 ```bash
